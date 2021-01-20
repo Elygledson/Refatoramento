@@ -7,16 +7,16 @@ as informações do sistema.
 
 Esse sistema permite as possibilidades abaixo:
 
-[1] - Cadastrar projeto.
-[2] - Cadastrar participante.
-[3] - Cadastrar produção academica
-[4] - Alocar participante a projeto.
-[5] - Alterar status de projeto
-[6] - Consultar projeto
-[7] - Consultar colaborador
-[8] - Listar projetos
-[9] - Relatório Acadêmico.
-[10]- Sair
+1.  * - Cadastrar projeto.
+2.  * - Cadastrar participante.
+3.  * - Cadastrar produção academica
+4.  * - Alocar participante a projeto.
+5.  * - Alterar status de projeto
+6.  * - Consultar projeto
+7.  * - Consultar colaborador
+8.  * - Listar projetos
+9.  * - Relatório Acadêmico.
+10. * - Sair
 
 ## Padrões utilizados Strategy e Factory method
 
@@ -35,4 +35,4 @@ Formulário.java usada nos arquivos Orientações.java e Publicacao.java que est
 
 * Pacote de extensão utilizado no vscode "Java extension pack".
 
-Dica: https://refactoring.guru/design-patterns
+* Dica: https://refactoring.guru/design-patterns
