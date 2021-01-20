@@ -7,16 +7,16 @@ as informações do sistema.
 
 Esse sistema permite as possibilidades abaixo:
 
-1.  * - Cadastrar projeto.
-2.  * - Cadastrar participante.
-3.  * - Cadastrar produção academica
-4.  * - Alocar participante a projeto.
-5.  * - Alterar status de projeto
-6.  * - Consultar projeto
-7.  * - Consultar colaborador
-8.  * - Listar projetos
-9.  * - Relatório Acadêmico.
-10. * - Sair
+- [x] Cadastrar projeto.
+- [x]  Cadastrar participante.
+- [x]  Cadastrar produção academica
+- [x]  Alocar participante a projeto.
+- [x]  Alterar status de projeto
+- [x]  Consultar projeto
+- [x] -Consultar colaborador
+- [x]  Listar projetos
+- [x]  Relatório Acadêmico.
+- [x]  Sair
 
 ## Padrões utilizados Strategy e Factory method
 
