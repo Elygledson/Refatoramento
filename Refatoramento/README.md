@@ -13,7 +13,7 @@ Esse sistema permite as possibilidades abaixo:
 - [x]  Alocar participante a projeto.
 - [x]  Alterar status de projeto
 - [x]  Consultar projeto
-- [x] -Consultar colaborador
+- [x]  Consultar colaborador
 - [x]  Listar projetos
 - [x]  Relatório Acadêmico.
 - [x]  Sair
